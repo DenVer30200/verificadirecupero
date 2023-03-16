@@ -22,7 +22,7 @@ namespace VerificaDebito
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); //AGGIUNTO COMENTO DAL GITHUB
 
             // primo versionegit ad
             //secondo versione
