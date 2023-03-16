@@ -23,6 +23,9 @@ namespace VerificaDebito
         public MainWindow()
         {
             InitializeComponent();
+
+            // primo versionegit ad
+            //secondo versione
             
         }
     }
