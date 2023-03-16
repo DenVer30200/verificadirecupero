@@ -29,6 +29,14 @@ namespace VerificaDebito
 
         }
 
+        public void ricercaAlunniTuttiEtà() 
+        { 
+        }
+
+        public void determinazioneDiNAlunniP()
+        {
+
+        }
 
     }
 }
